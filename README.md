@@ -1,4 +1,4 @@
-# Products
+# SearchWords
 
 A simple python program that search for a keyword in 200 line input text file without 
 inbuilt search function and extracts all results to a csv file with index starting from 1
